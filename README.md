@@ -183,7 +183,7 @@ reconstructed_signal = resample(signal_sampled, len(t))
 plt.figure(figsize=(10, 4))
 plt.plot(t, signal, label='Original Signal', alpha=0.7)
 plt.plot(t, reconstructed_signal, 'r--', label='Reconstructed Signal')
-plt.title('Reconstruction of Platop Sampled Signal')
+plt.title('Reconstruction of Flatop Sampled Signal')
 plt.xlabel('Time [s]')
 plt.ylabel('Amplitude')
 plt.grid(True)
@@ -193,15 +193,17 @@ plt.show()
 
 # OUTPUT
 ## ideal sampling output:
-![natural sampling graph](https://github.com/user-attachments/assets/cafc64e8-f4c5-43bd-ab1b-60b1235c3b14)
+![image](https://github.com/user-attachments/assets/196bacd3-abe1-4adb-a463-777e19203530)
+![image](https://github.com/user-attachments/assets/ffb89739-633d-4c58-9991-8803b8120c99)
+![image](https://github.com/user-attachments/assets/3d88678f-1252-4899-a9fc-745a94acc8f9)
 
 ## natural sampling output:
 ![natural sampling graph](https://github.com/user-attachments/assets/64eb3ec5-6c6a-4b95-b00c-6f4986bca6d9)
 
 ## flattop sampling output:
+![image](https://github.com/user-attachments/assets/7eb88f45-c940-4367-9b72-50c4e648893e)
 ![platop sampling graph](https://github.com/user-attachments/assets/02a7427d-3658-4e69-9102-06b0c499c983)
-
-
+![image](https://github.com/user-attachments/assets/4f3d062e-f05c-443c-adda-56a793ea5cbc)
 
 
 # RESULT :
