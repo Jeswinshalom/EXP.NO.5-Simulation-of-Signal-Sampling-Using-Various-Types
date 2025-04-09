@@ -119,7 +119,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-#plattop sampling
+#flattop sampling
 ```
 import numpy as np
 import matplotlib.pyplot as plt
