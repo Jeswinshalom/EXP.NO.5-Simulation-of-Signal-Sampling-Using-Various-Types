@@ -5,7 +5,6 @@
     iii) Flat Top Sampling
 
 # AIM: 
-to study and analyze the sampling of natural, ideal and flat top sampling.
 
 # SOFTWARE REQUIRED
 
