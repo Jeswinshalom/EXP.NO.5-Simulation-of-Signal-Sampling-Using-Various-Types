@@ -1,4 +1,8 @@
 # EXP.NO.5-Simulation-of-Signal-Sampling-Using-Various-Types
+
+**Name:** Jeswin Shalom S  
+**Roll Number:** 212223060106
+
 5.Simulation of Signal Sampling Using Various Types such as
     i) Ideal Sampling
     ii) Natural Sampling
